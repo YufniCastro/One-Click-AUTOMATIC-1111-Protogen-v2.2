@@ -5,7 +5,9 @@ Este notebook se basa en [fast_stable_diffusion_AUTOMATIC1111](https://github.co
 
 Utiliza la Trigger Word **"modelshoot style"** en tus prompts para obtener mejores resultados.
 
-<img src="/prompt_matrix-0002-487529710.png"  width="704" height="552">
+<p align="center">
+  <img src="https://github.com/YufniCastro/One-Click-AUTOMATIC-1111-Protogen-v2.2/blob/main/prompt_matrix-0002-487529710.png?raw=true"  width="528" height="414">
+</p>
 
 Prompt: anime character | modelshoot style | blue hair
 
