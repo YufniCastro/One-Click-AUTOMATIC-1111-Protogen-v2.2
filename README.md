@@ -1,11 +1,13 @@
 # One Click AUTOMATIC1111 - Protogen v2.2
-Empieza a crear imagenes en stable diffusion con un click usando Google Colab
+Empieza a crear imagenes en stable diffusion con un solo click usando Google Colab
 
 <a href="https://colab.research.google.com/drive/1yOYBXR3qR0izSYb38oP8A4Ps9mu05l85?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" height="30" />
 </a>
 
 Este [notebook](/One_Click_AUTOMATIC1111_Protogen_v2_2.ipynb) se basa en [fast_stable_diffusion_AUTOMATIC1111](https://github.com/TheLastBen/fast-stable-diffusion) creado por [TheLastBen](https://github.com/TheLastBen) y usa el modelo [Protogen V2.2](https://civitai.com/models/3627/protogen-v22-official-release) de [darkstorm2150](https://civitai.com/user/darkstorm2150).
+
+Protogen permite obtener resultados asombrosos con prompts sencillos. Deja de sufrir con el prompt engineering.
 
 Utiliza la Trigger Word **"modelshoot style"** en tus prompts para obtener mejores resultados.
 
